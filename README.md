@@ -1,6 +1,16 @@
-# Some awesome Data Viz Plotting Example Glossary 
+#  Example of Awesome Data Viz Plotting Glossary 
 
-ipsum lorem ipsum lorem
+
+## Frequency/Distribution Plots
+
+[ggstream](https://github.com/davidsjoberg/ggstream)  
+
+[ggstream](https://github.com/davidsjoberg/ggstream)  
+
+
+
+## Geospatial Data/Map Plots
+
 
 The assumptions are:
 
