@@ -3,14 +3,11 @@
 
 ## Ordinary Plots (Trends/Distributions)
 
-**ggstream** [David Sjoberg's package github](https://github.com/davidsjoberg/ggstream)  
+* **ggstream** [David Sjoberg's package github](https://github.com/davidsjoberg/ggstream)  
 
-[ggstream](https://github.com/davidsjoberg/ggstream)  
+* **Bayesian distribution regression trend** [Lego set example by JGranna](https://jgranna.github.io/posts/lego-sets.html)
 
-
-
-**Bayesian distribution regression trend** [Lego set example by JGranna](https://jgranna.github.io/posts/lego-sets.html)
-Other Bayesian modelling example using [**bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data)
+  Other Bayesian modelling examples using [**bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data)
 
 
 
