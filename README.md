@@ -1,4 +1,4 @@
-#  Example of Awesome Data Viz Plotting Glossary 
+#  'Examples of Awesome Data Viz Plots' Glossary 
 
 
 ## Ordinary Plots (Trends/Distributions)
@@ -14,6 +14,7 @@
 
 ## Geospatial Data/Map Plots
 
+* **hexagon mapping** [example by @samiasab90 - Washington DC's Cherry Blossom](https://github.com/samiaab1990/30-day-map-challenge)
 
 The assumptions are:
 
