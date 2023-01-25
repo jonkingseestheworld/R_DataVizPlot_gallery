@@ -3,7 +3,7 @@
 
 ## Frequency/Distribution Plots
 
-[ggstream](https://github.com/davidsjoberg/ggstream)  
+**ggstream** [David Sjoberg's package github](https://github.com/davidsjoberg/ggstream)  
 
 [ggstream](https://github.com/davidsjoberg/ggstream)  
 
