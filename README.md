@@ -1,4 +1,4 @@
-# Amazing Data Viz Plotting Example Glossary 
+# Some awesome Data Viz Plotting Example Glossary 
 
 ipsum lorem ipsum lorem
 
