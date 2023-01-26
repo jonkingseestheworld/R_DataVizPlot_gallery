@@ -7,6 +7,7 @@
 
 * **_Bayesian distribution regression trend_** [Lego set example by JGranna](https://jgranna.github.io/posts/lego-sets.html)
 
+* **_spider map_** [NRennie35 's Quarto example](https://www.r-bloggers.com/2022/08/designing-tidytuesday-visualisations-for-mobile-with-quarto/)
 
 
 
