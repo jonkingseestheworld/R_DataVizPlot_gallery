@@ -20,7 +20,7 @@
 
 * **_Circular Open Street Map_** [AbdouMa - B&W example](https://github.com/AbdoulMa/30DayMapChallenge)
 
-
+* **_Rayshader_** [ivabrunec 's example](https://github.com/ivabrunec/tidytuesday/blob/main/2023/2023_01_10/combined_test.png)
 
 
 * * * 
@@ -30,6 +30,5 @@
 
 ### Useful Bayesian modelling examples
 * Other Bayesian modelling examples using [**bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data) package
-
 * Rens van de Schoot's [Multilevel Model on Popularity data using BRMS](https://www.rensvandeschoot.com/tutorials/brms-started/)
 
