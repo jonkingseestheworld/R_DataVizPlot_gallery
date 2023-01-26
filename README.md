@@ -16,8 +16,8 @@
 
 * **_hexagon mapping_** [example by @samiasab90 - Washington DC's Cherry Blossom](https://github.com/samiaab1990/30-day-map-challenge)
 
-* **_expanding buffer lines surrounding a geo-object [Liam Bailey's Wadjemup island example](https://github.com/LiamDBailey/30DayMapChallenge_2022)
+* **_expanding buffer lines surrounding a geo-object_** [Liam Bailey's Wadjemup island example](https://github.com/LiamDBailey/30DayMapChallenge_2022)
 
 * **_Network line abstract map plot_** [AbdouMa - connecting lines of Africa example](https://github.com/AbdoulMa/30DayMapChallenge)
 
-
+* **_Circular Open Street Map_** [AbdouMa - B&W example](https://github.com/AbdoulMa/30DayMapChallenge)
