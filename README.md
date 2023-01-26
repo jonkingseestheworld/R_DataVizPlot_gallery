@@ -13,7 +13,9 @@
 
 ## Geospatial Data/Map Plots
 
-* **_hexagon mapping_** [example by @samiasab90 - Washington DC's Cherry Blossom](https://github.com/samiaab1990/30-day-map-challenge)
+* **_hexagon mapping_** 
+  - [@samiasab90 - Washington DC's Cherry Blossom](https://github.com/samiaab1990/30-day-map-challenge)
+  - VIA Learning Lab - [Street Trees in Cambridge-Somerville](https://vialab.mit.edu/tutorials/module/mapping-in-r-street-trees-in-camberville/)
 
 * **_expanding buffer lines surrounding a geo-object_** [Liam Bailey's Wadjemup island example](https://github.com/LiamDBailey/30DayMapChallenge_2022)
 
@@ -26,10 +28,11 @@
 
 * * * 
 ### Shiny for Python
-* [RamiKrispin](https://github.com/RamiKrispin/shinylive)'s example
 * [Official page](https://shiny.rstudio.com/py/docs/ui-page-layouts.html#common-structure)
+* [RamiKrispin](https://github.com/RamiKrispin/shinylive)'s example
+
 
 ### Useful Bayesian modelling examples
-* Other Bayesian modelling examples using [**bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data) package
+* [Mayo Clinical Primary Billiary Cirrhosis example using **bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data) package
 * Rens van de Schoot's [Multilevel Model on Popularity data using BRMS](https://www.rensvandeschoot.com/tutorials/brms-started/)
 
