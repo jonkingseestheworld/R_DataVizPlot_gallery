@@ -22,9 +22,13 @@
 
 
 
+* * * 
+### Shiny for Python
+[RamiKrispin](https://github.com/RamiKrispin/shinylive)'s example
+[Official page](https://shiny.rstudio.com/py/docs/ui-page-layouts.html#common-structure)
 
 ### Useful Bayesian modelling examples
 * Other Bayesian modelling examples using [**bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data) package
-* 
+
 * Rens van de Schoot's [Multilevel Model on Popularity data using BRMS](https://www.rensvandeschoot.com/tutorials/brms-started/)
 
