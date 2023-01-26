@@ -7,7 +7,8 @@
 
 * **_Bayesian distribution regression trend_** [Lego set example by JGranna](https://jgranna.github.io/posts/lego-sets.html)
 
-  Other Bayesian modelling examples using [**bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data)
+  - Other Bayesian modelling examples using [**bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data) package
+  - Rens van de Schoot's [Multilevel Model on Popularity data using BRMS](https://www.rensvandeschoot.com/tutorials/brms-started/)
 
 
 
