@@ -3,7 +3,7 @@
 
 ## Ordinary Plots (Trends/Distributions)
 
-* **_ggstream_** [David Sjoberg's package github](https://github.com/davidsjoberg/ggstream)  
+* **_ggstream_** [David Sjoberg's package github](https://github.com/davidsjoberg/ggstream){:target="_blank"}  
 
 * **_Bayesian distribution regression trend_** [Lego set example by JGranna](https://jgranna.github.io/posts/lego-sets.html)
 
