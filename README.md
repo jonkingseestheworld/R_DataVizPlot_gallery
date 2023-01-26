@@ -14,7 +14,7 @@
 ## Geospatial Data/Map Plots
 
 * **_hexagon mapping_** 
-  - [@samiasab90 - Washington DC's Cherry Blossom](https://github.com/samiaab1990/30-day-map-challenge)
+  - @samiasab90 - [Washington DC's Cherry Blossom](https://github.com/samiaab1990/30-day-map-challenge)
   - VIA Learning Lab - [Street Trees in Cambridge-Somerville](https://vialab.mit.edu/tutorials/module/mapping-in-r-street-trees-in-camberville/)
 
 * **_expanding buffer lines surrounding a geo-object_** [Liam Bailey's Wadjemup island example](https://github.com/LiamDBailey/30DayMapChallenge_2022)
