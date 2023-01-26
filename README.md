@@ -1,4 +1,4 @@
-#  'Examples of Awesome Data Viz Plots' Glossary 
+#  'Examples of Awesome Data Viz Plots' Collection
 
 
 ## Ordinary Plots (Trends/Distributions)
