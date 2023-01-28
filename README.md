@@ -9,6 +9,7 @@
 
 * **_spider map_** [NRennie35 's Quarto example](https://www.r-bloggers.com/2022/08/designing-tidytuesday-visualisations-for-mobile-with-quarto/)
 
+* **_network graph_** [GoT network analysis](https://shirinsplayground.netlify.app/2018/03/got_network/)
 
 
 ## Geospatial Data/Map Plots
@@ -27,6 +28,7 @@
 
 
 * * * 
+## Other referecnes
 ### Shiny for Python
 * [Official page](https://shiny.rstudio.com/py/docs/ui-page-layouts.html#common-structure)
 * [RamiKrispin](https://github.com/RamiKrispin/shinylive)'s example
