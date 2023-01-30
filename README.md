@@ -9,6 +9,8 @@
 
 * **_spider map_** [NRennie35 's Quarto example](https://www.r-bloggers.com/2022/08/designing-tidytuesday-visualisations-for-mobile-with-quarto/)
 
+* **_ggbump_** [official github](https://github.com/davidsjoberg/ggbump)
+
 * **_network graph_** [GoT network analysis](https://shirinsplayground.netlify.app/2018/03/got_network/)
 
 
