@@ -11,6 +11,8 @@
 
 * **_ggbump_** [official github](https://github.com/davidsjoberg/ggbump)
 
+* **_circle packing_** [hide first level for better styling](https://r-graph-gallery.com/315-hide-first-level-in-circle-packing.html)
+
 * **_network graph_** [GoT network analysis](https://shirinsplayground.netlify.app/2018/03/got_network/)
 
 
