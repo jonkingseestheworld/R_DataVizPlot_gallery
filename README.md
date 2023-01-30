@@ -26,6 +26,7 @@
 
 * **_Rayshader_** [ivabrunec 's example](https://github.com/ivabrunec/tidytuesday/blob/main/2023/2023_01_10/combined_test.png)
 
+* **geom_sf_** [LiamDBailey GBBO example](https://github.com/LiamDBailey/TidyTuesday/tree/e6f30ec2b1dc92d6a05c9f42a67c02d4ef825ffe/R/2022)
 
 * * * 
 ## Other referecnes
