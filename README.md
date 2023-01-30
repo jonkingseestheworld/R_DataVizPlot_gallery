@@ -15,6 +15,8 @@
 
 * **_network graph_** [GoT network analysis](https://shirinsplayground.netlify.app/2018/03/got_network/)
 
+* **_multiple frequency trend techniques_** [Survivor - JacobJameson example](https://github.com/jacobjameson/TidyTuesday)
+
 
 ## Geospatial Data/Map Plots
 
