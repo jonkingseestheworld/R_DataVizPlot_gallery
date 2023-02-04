@@ -17,6 +17,8 @@
 
 * **_multiple frequency trend techniques_** [Survivor - JacobJameson example](https://github.com/jacobjameson/TidyTuesday)
 
+* **_geom_tile_** [multi-plot timestamp-oriented example by Kitt jonathan](https://github.com/KittJonathan/tidytuesday/blob/master/R/2023_05_cats.R)
+
 
 ## Geospatial Data/Map Plots
 
@@ -32,7 +34,12 @@
 
 * **_Rayshader_** [ivabrunec 's example](https://github.com/ivabrunec/tidytuesday/blob/main/2023/2023_01_10/combined_test.png)
 
-* **geom_sf_** [LiamDBailey GBBO example](https://github.com/LiamDBailey/TidyTuesday/tree/e6f30ec2b1dc92d6a05c9f42a67c02d4ef825ffe/R/2022)
+* **_geom_sf_** [LiamDBailey GBBO example](https://github.com/LiamDBailey/TidyTuesday/tree/e6f30ec2b1dc92d6a05c9f42a67c02d4ef825ffe/R/2022)
+
+* **_Density plot on Google map_** [Using Goggle Static Map service](https://www.littlemissdata.com/blog/maps)
+
+* **_moveVis_** [Visualising movement data on maps](https://movevis.org/)
+
 
 * * * 
 ## Other referecnes
