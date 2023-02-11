@@ -50,6 +50,6 @@
 
 
 ### Useful Bayesian modelling examples
-* [Mayo Clinical Primary Billiary Cirrhosis example using **bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data) package
+* Mayo Clinical Primary Billiary Cirrhosis example using [**bamlss**](http://www.bamlss.org/articles/jm.html#mayo-clinic-primary-biliary-cirrhosis-data) package
 * Rens van de Schoot's [Multilevel Model on Popularity data using BRMS](https://www.rensvandeschoot.com/tutorials/brms-started/)
 
