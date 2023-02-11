@@ -19,6 +19,7 @@
 
 * **_geom_tile_** [multi-plot timestamp-oriented example by Kitt jonathan](https://github.com/KittJonathan/tidytuesday/blob/master/R/2023_05_cats.R)
 
+* **_geom_richtext_** Logo/images on multiplots (facet_wrap) [Big tech stock](https://github.com/AbdoulMa/TidyTuesday/tree/main/2023/2023_w6)
 
 ## Geospatial Data/Map Plots
 
