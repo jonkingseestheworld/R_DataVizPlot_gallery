@@ -47,6 +47,9 @@
 
 * **_Frequency Distribution Maps by Country_** [GKaramanis's example](https://github.com/gkaramanis/mappromptmonday)
 
+* **_Map illustration ideas_** [Devin Lea's works](https://github.com/devinmlea/Maps_Graphics_Code/tree/main/30DayMapChallenge2022) -- incl. avocado flow map
+
+
 
 * * * 
 ## Other referecnes
