@@ -21,6 +21,10 @@
 
 * **_geom_richtext_** Logo/images on multiplots (facet_wrap) [Big tech stock](https://github.com/AbdoulMa/TidyTuesday/tree/main/2023/2023_w6)
 
+
+
+
+
 ## Geospatial Data/Map Plots
 
 * **_hexagon mapping_** 
@@ -40,6 +44,8 @@
 * **_Density plot on Google map_** [Using Goggle Static Map service](https://www.littlemissdata.com/blog/maps)
 
 * **_moveVis_** [Visualising movement data on maps](https://movevis.org/)
+
+* **_Frequency Distribution Maps by Country_** [GKaramanis's example](https://github.com/gkaramanis/mappromptmonday)
 
 
 * * * 
