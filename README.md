@@ -53,6 +53,9 @@
 
 * **_Bspline plot_** [Azhar's petal plot example](https://github.com/imagineazhar/TidyTuesday/tree/main/2023/Week-09)
 
+* **_Circular tile plots_** [BjnNowak's RB painting color example](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_BobRoss.R)
+
+
 * * * 
 ## Other referecnes
 ### Shiny for Python
