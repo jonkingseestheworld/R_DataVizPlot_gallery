@@ -49,7 +49,9 @@
 
 * **_Map illustration ideas_** [Devin Lea's works](https://github.com/devinmlea/Maps_Graphics_Code/tree/main/30DayMapChallenge2022) -- incl. avocado flow map
 
+* **_Circular bar plot with African map_** [BjnNowak's African languages sentiment example](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_language2.R)
 
+* **_Bspline plot_** [Azhar's petal plot example](https://github.com/imagineazhar/TidyTuesday/tree/main/2023/Week-09)
 
 * * * 
 ## Other referecnes
