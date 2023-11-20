@@ -26,6 +26,11 @@
 
 
 ## Geospatial Data/Map Plots
+* **_Map Visualization_**
+[Map plots collection](https://socviz.co/maps.html)
+- Choropleth maps
+- statebins
+- state-level presentation
 
 * **_hexagon mapping_** 
   - @samiasab90 - [Washington DC's Cherry Blossom](https://github.com/samiaab1990/30-day-map-challenge)
@@ -54,6 +59,15 @@
 * **_Bspline plot_** [Azhar's petal plot example](https://github.com/imagineazhar/TidyTuesday/tree/main/2023/Week-09)
 
 * **_Circular tile plots_** [BjnNowak's RB painting color example](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_BobRoss.R)
+
+* **_Random Walk gif_** [random walk path on New Zeland map]([https://github.com/devinmlea/Maps_Graphics_Code/tree/main/30DayMapChallenge2022](https://github.com/curatedmess/30DayMapChallenge/blob/main/2023/11202023/nz_go_walk.R))
+
+* **_30 Day Map Challenge examples_**
+[Ansgar Wolsing's repo](https://github.com/bydata/30DayMapChallenge-2023/tree/main/R)
+
+* **_Imaginary fantasy land map generator_**
+[Fantasy land generator](https://watabou.github.io/realm.html)
+
 
 
 * * * 
