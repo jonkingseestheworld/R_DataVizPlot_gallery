@@ -65,6 +65,8 @@
 
 * **_30 Day Map Challenge examples_**
 [Ansgar Wolsing's repo](https://github.com/bydata/30DayMapChallenge-2023/tree/main/R)
+[Benjamin Novak's repo](https://github.com/BjnNowak/TidyTuesday/blob/main/5min_map.R)
+[Benjamin Novak's twitter](https://twitter.com/BjnNowak)
 
 * **_Detached US states (bins) choropleth maps_**
 [GKaramanis US House Election Results](https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_45)
