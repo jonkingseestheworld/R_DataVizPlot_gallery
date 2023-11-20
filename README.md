@@ -21,8 +21,9 @@
 
 * **_geom_richtext_** Logo/images on multiplots (facet_wrap) [Big tech stock](https://github.com/AbdoulMa/TidyTuesday/tree/main/2023/2023_w6)
 
+* **_Sankey Diagram_**(NRennie's Diwali Sales examples)[https://github.com/nrennie/tidytuesday/tree/main/2023/2023-11-14]
 
-
+* **_Waffle plot_**(US House Election example)[https://github.com/zahiernasrudin/tidytuesday/blob/main/2023/week%2045/img/image.jpeg]
 
 
 ## Geospatial Data/Map Plots
@@ -65,8 +66,12 @@
 * **_30 Day Map Challenge examples_**
 [Ansgar Wolsing's repo](https://github.com/bydata/30DayMapChallenge-2023/tree/main/R)
 
+* **_Detached US states (bins) choropleth maps_**
+[GKaramanis US House Election Results](https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_45)
 * **_Imaginary fantasy land map generator_**
 [Fantasy land generator](https://watabou.github.io/realm.html)
+
+* **_Joy plot_**(using ggridges)[https://www.helenmakesmaps.com/post/how-to-joy-plot]
 
 
 
